@@ -105,6 +105,7 @@
 
 <div align="center">
 
-    `HTML` ➔ `CSS` ➔ `Database` ➔ `Backend` ➔ `Cloud`
-
-</div>
+    ```text
+    Web Development
+    ↓
+    HTML → CSS → Database → Backend → Cloud
